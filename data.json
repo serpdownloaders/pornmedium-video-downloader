@@ -1,0 +1,209 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/pornmedium-downloader",
+  "serply_link": "https://serp.ly/pornmedium-downloader",
+  "app_name": "Pornmedium Video Downloader",
+  "short_description": "Download & Save Pornmedium Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Pornmedium Downloader is a browser extension built specifically for PornMedium video pages. It targets the editorial-style watch-page flow where playback moves through an iframe-based player handoff, then surfaces downloadable media when m3u8 or mp4 sources become available. This is a verified-target candidate designed to match PornMedium's unique page structure rather than generic downloader assumptions.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/pornmedium-downloader-fullscreen-01-3616ee8bac.webp",
+    "https://apps.serp.co/media/optimized-products/pornmedium-downloader-fullscreen-02-192be1dc66.webp",
+    "https://apps.serp.co/media/optimized-products/pornmedium-downloader-fullscreen-03-384c6cbb30.webp",
+    "https://apps.serp.co/media/optimized-products/pornmedium-downloader-fullscreen-04-7d59d5f944.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "What is this product built around?",
+      "answer": "It is positioned around the pornmedium.com domain, the slug-plus-ID /video/{slug}- flow, and playback moving through an iframe-based player handoff."
+    },
+    {
+      "question": "What formats does the extension support?",
+      "answer": "The stream hints are m3u8 and mp4. Actual formats depend on what the Pornmedium page and its iframe handoff expose."
+    },
+    {
+      "question": "Why emphasize the editorial brand and slug-plus-ID route?",
+      "answer": "Because Pornmedium uses a titled watch-page format rather than a bare numeric route. The copy matches that brand feel instead of generic tube-site assumptions."
+    },
+    {
+      "question": "Is Pornmedium verified as a target?",
+      "answer": "Yes. The extension has verified target status with current URL patterns confirmed."
+    },
+    {
+      "question": "Is this a fully proven adapter?",
+      "answer": "No. Marketing stays restrained because factory candidate notes still mention generated stub behavior and stale config identity."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "PornMedium-specific extension identity and product URL",
+    "Verified target row with current URL pattern under pornmedium.com/video/{slug}",
+    "Messaging focused on iframe handoff and editorial page-shell framing",
+    "Stream hints include m3u8 and mp4 for flexible source discovery",
+    "Clear generated-stub and stale-config cautions for honest release positioning",
+    "Pornmedium-specific targeting for slug-plus-ID video pages",
+    "Detection tuned for iframe player handoff on editorial watch pages",
+    "Stream discovery for both m3u8 and direct mp4 sources",
+    "Verified target status with honest candidate-stage caveats",
+    "Fast, private, one-click download workflow",
+    "Clean popup interface for source selection",
+    "Works directly in your browser without external tools",
+    "Regular updates aligned with Pornmedium page changes"
+  ],
+  "content": {
+    "why": [
+      "Most video downloaders treat every site the same, using generic copy that ignores how Pornmedium actually works. Pornmedium uses an editorial-style page layout with slug-plus-ID video routes and an iframe-based player handoff, which means the real media source often sits behind a player layer rather than directly on the visible page. A generic tool will miss that handoff and leave you with nothing to download.",
+      "Pornmedium Downloader is built around Pornmedium's actual page structure. Instead of flattening the site into a generic pattern, it targets the specific slug-plus-ID route shape, waits for the iframe player handoff to resolve, and then surfaces m3u8 or mp4 sources when the page exposes them. This gives you a download path that matches how Pornmedium actually delivers its content."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Pornmedium and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Open your browser and navigate to a Pornmedium video page with a slug-plus-ID URL like ``.",
+      "Let the page load fully so the iframe player handoff can resolve.",
+      "Start the video playback to trigger the embedded player layer.",
+      "Click the Pornmedium Downloader icon in your browser toolbar.",
+      "Wait for the extension to detect available media sources from the player handoff.",
+      "Review the surfaced source options — either m3u8 or direct mp4 when available.",
+      "Choose the file option you want to save.",
+      "Click download and save the resulting MP4 file to your local device."
+    ],
+    "supported_formats": [
+      "Input: m3u8 and mp4 sources exposed after the iframe player handoff resolves on Pornmedium slug-plus-ID video pages",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Pornmedium visitors who want a site-specific downloader instead of a generic tool",
+      "Users who understand that real media may sit behind an iframe handoff on editorial watch pages",
+      "People comfortable with candidate-stage software that carries generated-stub and stale-config caveats",
+      "Anyone looking for private, in-browser downloads without third-party services"
+    ],
+    "use_cases": [
+      "Saving a Pornmedium video for offline viewing after the iframe player handoff resolves",
+      "Archiving content from slug-plus-ID watch pages for personal reference",
+      "Testing whether m3u8 or direct mp4 sources are exposed on a particular Pornmedium page",
+      "Building a local library of Pornmedium content using a verified-target candidate",
+      "Comparing download results across different Pornmedium video routes and player handoff behaviors"
+    ],
+    "troubleshooting": [
+      "No media sources detected Make sure the video page is fully loaded and playback has started. The iframe player handoff needs to resolve before sources become visible.",
+      "The popup shows no options Try refreshing the page and starting the video again. Some Pornmedium pages may require a second load for the handoff to complete.",
+      "Download starts but fails partway Check your internet connection. Large m3u8 streams can be interrupted by network drops.",
+      "The extension icon is greyed out You may be on a page that does not match the supported slug-plus-ID route pattern. Navigate to a valid Pornmedium video page.",
+      "Sources appear but do not match the video The iframe handoff can sometimes expose multiple streams. Try selecting a different source option if one is available."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Pornmedium page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "Pornmedium uses slug-plus-ID video routes that may differ from other sites",
+      "The iframe player handoff must resolve before media sources become detectable"
+    ],
+    "about": [
+      "Pornmedium is an adult video platform that uses an editorial-style page layout with slug-plus-ID video routes and iframe-based player handoff. Pornmedium Downloader is built specifically for this page structure, giving you a targeted download path instead of a generic tool that ignores how the site actually works."
+    ]
+  },
+  "serpx_link": "https://serpx.link/pornmedium-downloader",
+  "github_topics": [
+    "pornmedium-download",
+    "pornmedium-downloader",
+    "pornmedium-video-downloader",
+    "pornmedium-video-downloader-online",
+    "pornmedium-video-downloader-mac",
+    "pornmedium-video-downloader-window",
+    "pornmedium-video-downloader-free",
+    "pornmedium-video-downloader-extension",
+    "pornmedium-video-downloader-app",
+    "pornmedium-video-downloader-chrome",
+    "pornmedium-video-downloader-from-url",
+    "how-to-download-pornmedium-videos",
+    "how-to-download-pornmedium-videos-mac",
+    "how-to-download-pornmedium-videos-windows",
+    "how-to-download-pornmedium-videos-online",
+    "how-to-download-pornmedium-videos-free",
+    "how-to-download-from-pornmedium",
+    "how-to-download-videos-from-pornmedium",
+    "download-pornmedium-videos",
+    "pornmedium-video-tutorial",
+    "save-pornmedium-videos",
+    "pornmedium-video-content-saver",
+    "how-to-download-pornmedium-videos-for-free"
+  ],
+  "hashtags": [
+    "#PornmediumDownload",
+    "#PornmediumDownloader",
+    "#PornmediumVideoDownloader",
+    "#PornmediumVideoDownloaderOnline",
+    "#PornmediumVideoDownloaderMac",
+    "#PornmediumVideoDownloaderWindow",
+    "#PornmediumVideoDownloaderFree",
+    "#PornmediumVideoDownloaderExtension",
+    "#PornmediumVideoDownloaderApp",
+    "#PornmediumVideoDownloaderChrome",
+    "#PornmediumVideoDownloaderFromURL",
+    "#HowToDownloadPornmediumVideos",
+    "#HowToDownloadPornmediumVideosMac",
+    "#HowToDownloadPornmediumVideosWindows",
+    "#HowToDownloadPornmediumVideosOnline",
+    "#HowToDownloadPornmediumVideosFree",
+    "#HowToDownloadFromPornmedium",
+    "#HowToDownloadVideosFromPornmedium",
+    "#DownloadPornmediumVideos",
+    "#PornmediumVideoTutorial",
+    "#SavePornmediumVideos",
+    "#PornmediumVideoContentSaver",
+    "#HowToDownloadPornmediumVideosForFree"
+  ],
+  "youtube_tags": [
+    "Pornmedium Download",
+    "Pornmedium Downloader",
+    "Pornmedium Video Downloader",
+    "Pornmedium Video Downloader Online",
+    "Pornmedium Video Downloader Mac",
+    "Pornmedium Video Downloader Window",
+    "Pornmedium Video Downloader Free",
+    "Pornmedium Video Downloader Extension",
+    "Pornmedium Video Downloader App",
+    "Pornmedium Video Downloader Chrome",
+    "Pornmedium Video Downloader From URL",
+    "How To Download Pornmedium Videos",
+    "How To Download Pornmedium Videos Mac",
+    "How To Download Pornmedium Videos Windows",
+    "How To Download Pornmedium Videos Online",
+    "How To Download Pornmedium Videos Free",
+    "How To Download From Pornmedium",
+    "How To Download Videos From Pornmedium",
+    "Download Pornmedium Videos",
+    "Pornmedium Video Tutorial",
+    "Save Pornmedium Videos",
+    "Pornmedium Video Content Saver",
+    "How To Download Pornmedium Videos For Free"
+  ]
+}
